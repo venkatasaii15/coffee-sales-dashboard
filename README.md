@@ -26,3 +26,5 @@ This project analyzes coffee sales data using Excel.
 - Interactive dashboard
 - KPI metrics (Sales, Profit, Orders)
 - Product and customer insights
+
+![Dashboard](dashboard.png)
