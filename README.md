@@ -17,14 +17,11 @@ This project analyzes coffee sales data using Excel.
 - Exc-L is best selling product
 - Lib-L gives highest profit
 
-📊 Dashboard Preview
-
-(Add screenshot here)
-
 🚀 Features
 
 - Interactive dashboard
 - KPI metrics (Sales, Profit, Orders)
 - Product and customer insights
 
+📊 Dashboard Preview
 ![Dashboard](dashboard.png)
